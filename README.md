@@ -16,5 +16,4 @@ I have over five years of diverse industry experience as a Systems Administrator
 
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/d65c3309-27d4-495a-aae5-741d33ca0003" alt="readme-stats" height="175"/>
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/4eaa90ba-9094-4aa5-9065-fb0a55439353" alt="top-langs" height="175"/><br>
-Despite my top languages chart displayed, I mainly write in Python. Last updated Nov 2023.
-<br><br>
+Despite the top languages chart displayed, I mainly write in Python. Last updated Nov 2023.
