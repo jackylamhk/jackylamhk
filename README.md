@@ -8,7 +8,7 @@
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/028cab97-5aaf-41d9-aae7-a9ab62df7297" alt="microsoft-certified-associate-badge" width="80"/>
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/3dcea8c8-fa7f-4922-89c7-75fd4944dfb9" alt="oracle-certified-associate-badge" width="80"/>
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/f95199c5-98db-4f7e-baa8-2a2fef73016b" alt="isc-cc-badge" width="80"/>
-<img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/7ba59d22-cae6-45a4-acc3-afbfa53eae2e" alt="comptia-aplus-badge" width="80"/><br><br>
+<img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/7ba59d22-cae6-45a4-acc3-afbfa53eae2e" alt="comptia-aplus-badge" width="80"/><br>
 
 As an IT Support Specialist at Coherent, I administer multiple platforms, including AWS, Azure, GCP, M355, Entra ID, Atlassian, Google Workspace, and more. I oversee company-wide Identity and Access Management (IAM), including managing user-provisioning cycles and role-based access control (RBAC). I am also well-versed in writing Python, JavaScript, and Bash.
 
