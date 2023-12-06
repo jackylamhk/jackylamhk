@@ -14,4 +14,4 @@ As an IT Ops Specialist at Coherent, I administer Microsoft 365, AWS, Atlassian,
 
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/c005888a-9491-429b-8686-5cca53d6ee9e" alt="readme-stats" height="175"/>
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/7490fcc5-de5e-4ed2-a6f5-3bd87841158a" alt="top-langs" height="175"/><br>
-Despite the top languages chart displayed, I mainly write in Python. Last updated Nov 2023.
+Despite the top languages chart displayed, I mainly write in Python. Last updated Dec 2023.
