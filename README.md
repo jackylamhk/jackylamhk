@@ -7,6 +7,7 @@
 <img src="https://github.com/user-attachments/assets/5361ac78-72c5-4f4f-98b8-024398508d97" alt="cka-badge" width="80"/>
 <img src="https://github.com/user-attachments/assets/59107e25-b71a-4692-a405-ff0c2c13808d" alt="lfcs-badge" width="80"/>
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/59a3a6fa-f53f-446c-b8d8-8dec127cc1f2" alt="sscp-badge" width="80"/>
+<br />
 
 As a DevOps & Backend Engineer at Greenfly, I own the deployment and testing pipelines and manage cloud infrastructure on AWS. I have over six years of experience in DevOps, SecOps, Software Engineering, and IT Operations. I hold certifications in AWS, Azure, GCP, K8s (CKA), LFCS, and SSCP.
 
