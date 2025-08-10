@@ -10,7 +10,7 @@ As a DevOps & Backend Engineer at Greenfly, I own the deployment and testing pip
 
 I am passionate about designing secure, performant, highly available, cost-effective cloud architectures and promoting the DevOps culture to meet business needs and maximize operational efficiency. I am proficient in Python, TypeScript/JavaScript, Terraform, Bash, and PowerShell.
 
-<img src="https://github.com/user-attachments/assets/b554336a-9cb2-4d9d-81ea-5696e31971f6" alt="github-stats" height="175"/>
-<img src="https://github.com/user-attachments/assets/af49f8fd-f7cc-4164-a5da-f929dc7c32c1" alt="top-languages" height="175"/>
+<img src="https://github.com/user-attachments/assets/b554336a-9cb2-4d9d-81ea-5696e31971f6" alt="github-stats" height="150"/>
+<img src="https://github.com/user-attachments/assets/af49f8fd-f7cc-4164-a5da-f929dc7c32c1" alt="top-languages" height="150"/>
 
 <sup><sub>Updated at August 2025</sub></sup>
