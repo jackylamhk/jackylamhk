@@ -1,6 +1,3 @@
-**Cloud Architect • DevSecOps**<br />
-**AWS, Azure, GCP • CKA, LFCS, SSCP**
-
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/de4673c7-2bb0-486d-b978-1d85ab8bcee9" alt="aws-csaa-badge" width="80"/>
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/3d948b19-2c32-46d7-ad81-c512f133898d" alt="microsoft-certified-expert-badge" width="80"/>
 <img src="https://github.com/jackylamhk/jackylamhk/assets/103398226/5bc22c3e-d277-4e99-91e6-451156b44fc39" alt="google-certified-ace-badge" width="80"/>
