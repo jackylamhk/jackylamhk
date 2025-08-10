@@ -11,7 +11,7 @@
 
 As a DevOps & Backend Engineer at Greenfly, I own the deployment and testing pipelines and manage cloud infrastructure on AWS. I have over six years of experience in DevOps, SecOps, Software Engineering, and IT Operations. I hold certifications in AWS, Azure, GCP, K8s (CKA), LFCS, and SSCP.
 
-I am passionate about designing secure, performant, highly available, cost-effective cloud architectures and promoting the DevOps culture to meet business needs and maximize operational efficiency. I am proficient in Python, TypeScript/JavaScript, PHP, Bash, and PowerShell.
+I am passionate about designing secure, performant, highly available, cost-effective cloud architectures and promoting the DevOps culture to meet business needs and maximize operational efficiency. I am proficient in Python, TypeScript/JavaScript, Terraform, Bash, and PowerShell.
 
 <img src="https://github.com/user-attachments/assets/4cbea3bd-adcb-4624-9dc3-78a8952c0635" alt="github-stats" height="175"/>
 <img src="https://github.com/user-attachments/assets/5b91e602-0851-4f4d-9e07-f16ccb31c920" alt="top-languages" height="175"/>
